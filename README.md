@@ -2,7 +2,9 @@
 This is a project that describes the arduino inputs and outputs, has an example code for them.
 
 ## SCHEME
-
+<p align="center"> 
+    <a href="https://www.tinkercad.com/things/gX69tPrq8eg-glorious-amberis/editel?sharecode=74cc_J3rcXev6Sm5Wou_PAqSLVuCkOczScjHH8JXTys"> <img src="https://github.com/Jardielson-s/I-O/blob/main/scheme.png" alt="Scheme arduino" /> </a>
+</p>
 
 
 
